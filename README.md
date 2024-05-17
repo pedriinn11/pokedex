@@ -1,2 +1,2 @@
 # pokedex
-Projeto da Pokedex JS
+# pokedex
