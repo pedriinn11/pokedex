@@ -1,24 +1,23 @@
-* {
+*{
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
 
 body {
-    background-color: #f6f8fc;
+    background-image: url(
+        /pokedex/assets/images/PngItem_25253.png
+    );
+    
 }
 
-.content {
-    width: 100vw;
-    height: 100vh;
+.content{
     padding: 1rem;
-    background-color: #fff;
+    background-image: url(/pokedex/assets/images/PngItem_25253.png);
+    height: 100vh;
+    width: 100vw;
 }
 
-@media screen and (min-width: 992px) {
-    .content {
-        max-width: 992px;
-        height: auto;
-        margin: 1rem auto;
-        border-radius: 1rem;
-    }
+.logo {    
+    margin: 0;
+    padding: 0;    
 }
